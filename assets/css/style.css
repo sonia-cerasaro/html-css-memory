@@ -1,0 +1,113 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Potta One', cursive;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: lightblue;
+  position: relative;
+
+}
+/*-----header----*/
+
+header {
+  width: 100%;
+  height: 100px;
+}
+
+header h1 {
+  color: white;
+  text-align: center;
+  padding-top: 25px;
+  font-size: 50px;
+  text-shadow: 2px 2px #406BA7;
+}
+
+/*-----main----*/
+
+main {
+  width: 70%;
+  height: 800px;
+  margin: auto;
+  background-color: yellow;
+  position: relative;
+}
+
+/*-----section one----*/
+
+#s_one {
+  width: 100%;
+  height: 270px;
+  background-color: blue;
+  position: relative;
+}
+
+.quadro {
+  width: 150px;
+  height: 180px;
+  background-color: green;
+  position: absolute;
+}
+
+/*-----squares section one----*/
+
+.four_4 {
+  top: 80px;
+  left: 510px;
+}
+
+.three_3 {
+  top: 80px;
+  left: 340px;
+}
+
+.two_2 {
+  top: 80px;
+  left: 170px;
+}
+
+.one_1 {
+  top: 80px;
+  left: 0;
+}
+
+/*-----section two----*/
+
+#s_two {
+  width: 100%;
+  height: 270px;
+  background-color: white;
+  position: relative;
+
+}
+
+.quadro {
+  width: 150px;
+  height: 180px;
+  background-color: green;
+  position: absolute;
+}
+
+/*-----squares section two----*/
+
+/*-----section three----*/
+/*-----squares section three----*/
+
+
+/*-----footer----*/
+
+footer {
+  width: 100%;
+  height: 80px;
+  position: absolute;
+  bottom: 0;
+}
+
+footer h6 {
+  text-align: center;
+  padding-top: 25px;
+}
