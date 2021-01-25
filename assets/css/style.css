@@ -12,11 +12,11 @@ body {
   position: relative;
 
 }
+
 /*-----header----*/
 
 header {
-  width: 100%;
-  height: 100px;
+  width: 100%;  
 }
 
 header h1 {
@@ -49,7 +49,6 @@ main {
   display: inline-block;
   margin-left: 10px;
   box-shadow: 6px 8px 7px rgba(52, 63, 82, 0.2);
-
 }
 
 
@@ -69,30 +68,12 @@ h4 {
 }
 
 
-
 .s_one {
   width: 100%;
   height: 200px;
   display: inline-block;
 }
 
-/*-----squares section one----*/
-
-.four_4 {
-
-}
-
-.three_3 {
-
-}
-
-.two_2 {
-
-}
-
-.one_1 {
-
-}
 
 /*-----section two----*/
 
@@ -103,53 +84,12 @@ h4 {
 }
 
 
-/*-----squares section two----*/
-
-.four_8 {
-
-}
-
-.three_7 {
-
-}
-
-.two_6 {
-
-}
-
-/*
-.baloon h4 {
-  color: pink;
-  display: none;
-}
-*/
-
-.one_5 {
-}
-
 /*-----section three----*/
 
 .s_three {
   width: 100%;
   height: 270px;
   margin-top: 20px;
-}
-/*-----squares section three----*/
-
-.four_12 {
-
-}
-
-.three_11 {
-
-}
-
-.two_10 {
-
-}
-
-.one_9 {
-
 }
 
 /*-----footer----*/
