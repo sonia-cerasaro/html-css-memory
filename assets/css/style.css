@@ -45,11 +45,30 @@ main {
   background-image: url("../img/pattern.png");
   background-size: cover;
   background-size: 90%;
-  background-color: green;
+  background-color: #fff;
   display: inline-block;
   margin-left: 10px;
   box-shadow: 6px 8px 7px rgba(52, 63, 82, 0.2);
+
 }
+
+
+.quadro.two_6 {
+  background-image: url("../img/noun_air_balloon_3134741.png");
+  background-position: 23% 30%;
+  background-size: cover 30%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+h4 {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: #FF69B4;
+}
+
+
 
 .s_one {
   width: 100%;
@@ -79,7 +98,6 @@ main {
 
 .s_two {
   width: 100%;
-  height: 200px;
   margin-top: 20px;
 
 }
@@ -99,12 +117,7 @@ main {
 
 }
 
-/*.quadro.two_6:hover {
-  width: 150px;
-  height: 180px;
-  background: url("../img/noun_air_balloon_3134741.png");
-}
-
+/*
 .baloon h4 {
   color: pink;
   display: none;
